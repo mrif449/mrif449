@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on : Competitive Programming and Problem Solving Skills
 - 🌱 I’m currently learning : CSS, JavaScript
 - 🤔 I’m looking for help with : Data Structures and Algorithms
-- 💬 Ask me about : Startups
+- 💬 Ask me about : Python Coding problems
 - 📫 [Reach Me](mailto:mr.if449@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Stalk me at [Codeforces](https://codeforces.com/profile/mr.if449) [Codechef](https://www.codechef.com/users/mrif449) [Leetcode](https://leetcode.com/mrif449/) [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/491656) 
+- ⚡ Check out my online judge profiles: [Codeforces](https://codeforces.com/profile/mr.if449) [Codechef](https://www.codechef.com/users/mrif449) [Leetcode](https://leetcode.com/mrif449/) [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/491656) 
 
