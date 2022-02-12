@@ -1,4 +1,5 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Peace be upon you
 ---
 <a href="https://www.linkedin.com/in/mrif449/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -6,7 +7,9 @@
 <a href="https://www.facebook.com/mr.if449">
   <img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" />
 </a>
-<br>
+<a href="https://www.twitter.com/mrif449">
+  <img align="left" alt="LinkedIN" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
+</a>
 <br>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/imanishbarnwal/imanishbarnwal/master/coder.gif" width="500" height="320" />
@@ -46,4 +49,3 @@ Here are some ideas to get you started:
 - 📫 [Reach Me](mailto:mr.if449@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Stalk me at [Codeforces](https://codeforces.com/profile/mr.if449) [Codechef](https://www.codechef.com/users/mrif449) [Leetcode](https://leetcode.com/mrif449/)
-
