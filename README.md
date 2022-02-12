@@ -3,7 +3,9 @@
 <a href="https://www.linkedin.com/in/mrif449/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<br>
+<a href="https://www.facebook.com/mr.if449">
+  <img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" />
+</a>
 <br>
 <br>
 
@@ -44,3 +46,4 @@ Here are some ideas to get you started:
 - 📫 [Reach Me](mailto:mr.if449@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Stalk me at [Codeforces](https://codeforces.com/profile/mr.if449) [Codechef](https://www.codechef.com/users/mrif449) [Leetcode](https://leetcode.com/mrif449/)
+
