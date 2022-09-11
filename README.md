@@ -55,3 +55,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Check out my online judge profiles: [Hackerrank](https://www.hackerrank.com/mr_if449) [Codeforces](https://codeforces.com/profile/mr.if449) [Codechef](https://www.codechef.com/users/mrif449) [Leetcode](https://leetcode.com/mrif449/) [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/491656) 
 
+<!-- github stats starts here  -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrif449)](https://github.com/anuraghazra/github-readme-stats) -->
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true)
+
+<br/>
+
+<!-- github stats ends here  -->
