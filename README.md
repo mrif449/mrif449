@@ -50,7 +50,7 @@ I'm a python programmer currently doing competitive programming. I also have a k
 Here are some ideas to get you started:
 - 🔭 I’m currently working on : Competitive Programming and Problem Solving Skills
 - 🌱 I’m currently learning : C, C++
-- 🤔 I’m looking for help with : Data Structures and Algorithms
+- 🤔 I’m looking for help with : Computer Architecture
 - 💬 Ask me about : Python Coding problems
 - 📫 [Reach Me](mailto:mr.if449@gmail.com)
 - 😄 Pronouns: He/Him
