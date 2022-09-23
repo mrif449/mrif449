@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 <a href="https://github.com/mrif449">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/><img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mrif449&theme=highcontrast&hide_border=true" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/><img align="center" width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mrif449&theme=highcontrast&hide_border=true" />
   </a> 
 
    <a href="https://github.com/mrif449">
