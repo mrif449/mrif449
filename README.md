@@ -46,6 +46,8 @@ I'm a python programmer currently doing competitive programming. I also have a k
 <code><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/anisul-Islam/anisul-islam/master/images/github.svg"></code>
 <code><img height="70" src="https://i.pinimg.com/originals/01/e5/00/01e500fca29c045d432b64f285f9c229.png"></code>
+<code><img height="70" src="https://img.icons8.com/ultraviolet/40/000000/adobe-photoshop--v2.png"></code>
+
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on : Competitive Programming and Problem Solving Skills
