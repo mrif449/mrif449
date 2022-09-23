@@ -59,25 +59,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Check out my online judge profiles: [Hackerrank](https://www.hackerrank.com/mrif449) [Codeforces](https://codeforces.com/profile/mr.if449) [Codechef](https://www.codechef.com/users/mrif449) [Leetcode](https://leetcode.com/mrif449/) [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/491656) 
 
-<!-- github stats starts here  -->
+
 <p align="center">
-<!--    <a href="https://github.com/mrif449">
+<a href="https://github.com/mrif449">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a> 
    <a href="https://github.com/mrif449">
     <img align="center" height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>  -->
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mdemon420&show_icons=true&theme=react&hide_border=true&text_color=FFFFFF&bg_color=000000" />
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemon420&langs_count=8&layout=compact&theme=react&hide_border=true&text_color=FFFFFF&bg_color=000000&"> 
-	
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrif449)](https://github.com/anuraghazra/github-readme-stats) -->
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true)
-
-<br/>
-
-<!-- github stats ends here  -->
+  </a>
