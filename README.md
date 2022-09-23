@@ -78,8 +78,6 @@ Here are some ideas to get you started:
 <br>
  <div align="center">
 	<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Sayed-Oni&show_icons=true&theme=dark-smoky&hide_border=true" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Sayed-Oni&theme=highcontrast&hide_border=true" />
 	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&langs_count=8&layout=compact&theme=dark-smoky">
 </div>
 <br/>
