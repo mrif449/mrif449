@@ -78,7 +78,7 @@ Here are some ideas to get you started:
 <br>
  <div align="center">
 	<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&theme=dark-smoky&hide_border=true" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mrif449&theme=highcontrast&hide_border=true" />
 	
 </div>
 <br/>
