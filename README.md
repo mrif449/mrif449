@@ -66,6 +66,7 @@ Here are some ideas to get you started:
   </a> 
    <a href="https://github.com/mrif449">
     <img align="center" height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mrif449&theme=highcontrast&hide_border=true" />
   </a>
 <br>
 
@@ -76,9 +77,5 @@ Here are some ideas to get you started:
 </p>
 <br/>
 <br>
- <div align="center">
-	<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=mrif449&theme=highcontrast&hide_border=true" />
-	
-</div>
+
 <br/>
