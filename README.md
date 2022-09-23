@@ -67,3 +67,13 @@ Here are some ideas to get you started:
    <a href="https://github.com/mrif449">
     <img align="center" height="50%" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
+<br>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=mdemon420&theme=react-dark&hide_border=true&area=true)
+<br/>
+	
+ ![snake gif](https://github.com/mdraselmiah95/mdraselmiah95/blob/output/github-contribution-grid-snake.gif)
+ <p align="center">
+   <img src="https://github.com/mdraselmiah95/mdraselmiah95/blob/output/github-contribution-grid-snake.svg" alt="snake">
+</p>
+<br/>
