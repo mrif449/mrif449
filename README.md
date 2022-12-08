@@ -96,6 +96,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
   <img src="https://img.shields.io/badge/Pycharm-092E20?style=for-the-badge&logo=pycharm&logoColor=white">
   <img src="https://img.shields.io/badge/VMware-FCC624?style=for-the-badge&logo=vmware&logoColor=black">
+  <img src="https://img.shields.io/badge/VirtualBox-125d7a?style=for-the-badge&logo=virtualbox&logoColor=white">
 </span>
 <br>
 
