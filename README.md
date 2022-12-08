@@ -97,6 +97,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Pycharm-092E20?style=for-the-badge&logo=pycharm&logoColor=white">
   <img src="https://img.shields.io/badge/VMware-FCC624?style=for-the-badge&logo=vmware&logoColor=black">
   <img src="https://img.shields.io/badge/VirtualBox-125d7a?style=for-the-badge&logo=virtualbox&logoColor=white">
+  <img src="https://img.shields.io/badge/Anaconda-3EB049?style=for-the-badge&logo=anaconda&logoColor=white">
 </span>
 <br>
 
