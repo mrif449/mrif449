@@ -4,16 +4,15 @@
 <a href="https://www.linkedin.com/in/mrif449/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/mr.if449">
-  <img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" />
-</a>
 <a href="https://www.twitter.com/mrif449">
   <img align="left" alt="LinkedIN" width="22px" src="https://logodownload.org/wp-content/uploads/2014/09/twitter-logo-6.png" />
 </a>
 <a href="https://www.instagram.com/mr.if449">
   <img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/2048px-Instagram_logo_2022.svg.png" />
 </a>
-
+<a href="https://www.facebook.com/mr.if449">
+  <img align="left" alt="LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Facebook_Logo.png" />
+</a>
 <br>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/imanishbarnwal/imanishbarnwal/master/coder.gif" width="500" height="320" />
