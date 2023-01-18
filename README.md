@@ -38,8 +38,8 @@ I'm a python programmer currently doing competitive programming. I also have a k
 
 <br>
 
-## Languages and Tools: ##  
-
+## Languages and Tools: ##
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 <code><img height="70" src="https://raw.githubusercontent.com/anisul-Islam/anisul-islam/master/images/html5.svg"></code>
 <code><img height="70" src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/anisul-Islam/anisul-islam/master/images/js.svg"></code>
