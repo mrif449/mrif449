@@ -18,7 +18,7 @@
 </a>
 <br>
 
-<img align="right" alt="GIF" src="[https://github.com/mrif449/mrif449/blob/main/animation.gif](https://github.com/ashak-odree/ashak-odree/blob/main/gif/Right_Side.gif)"/>
+<img align="right" alt="GIF" src="[https://github.com/mrif449/mrif449/blob/main/animation.gif](https://github.com/ashak-odree/ashak-odree/blob/main/gif/Right_Side.gif)">
 
 <br>
 
