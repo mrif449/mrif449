@@ -18,7 +18,7 @@
 </a>
 <br>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/imanishbarnwal/imanishbarnwal/master/coder.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/mrif449/mrif449/animation.gif" width="500" height="320" />
 
 <br>
 
