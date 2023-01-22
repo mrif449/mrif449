@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/mrif449">
    <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=mrif449&theme=highcontrast&hide_border=true" />
 </a> 
+![Rahadul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&count_private=true&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&theme=great-gatsby&layout=compact)](https://github.com/mrif449)
    
 <h2> Skills </h2>
 
