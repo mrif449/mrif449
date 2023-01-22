@@ -3,7 +3,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+Alaikum;I+am+Rahadul+Islam;Undergraduate+Student+BRAC+University;CSE+Department;"></a>
 </p>
----
 <a href="https://www.linkedin.com/in/mrif449/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
