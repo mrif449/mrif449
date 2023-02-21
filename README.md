@@ -104,3 +104,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Anaconda-3EB049?style=for-the-badge&logo=anaconda&logoColor=white">
 </span>
 <br>
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/mrif449/count.svg" />
+</p>
