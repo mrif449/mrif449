@@ -112,7 +112,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Anaconda-3EB049?style=for-the-badge&logo=anaconda&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-000080?style=for-the-badge&logo=mysql&logoColor=yellow">
 </span>
-<br>
+</br>
+</br>
+</br>
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/mrif449/count.svg" />
