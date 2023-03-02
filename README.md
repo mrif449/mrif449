@@ -76,10 +76,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">
 
-<img  height= 200 src="https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-</p>
 
 
   
