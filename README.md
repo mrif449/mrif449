@@ -64,13 +64,14 @@ Here are some ideas to get you started:
 
 <p align=center>
   <img  width=400 src="https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+  <img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
  </p>
 <p align=center>
       <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=mrif449&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
   <br><br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=mrif449&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/>
+
 </p>
-  </p>
+
   
  
 <p align = center>
@@ -80,7 +81,7 @@ Here are some ideas to get you started:
 
 dracula base : #282a36 font : #ff79c6
 <p align="center">
-<img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+
 <img  height= "200"src="https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
 </p>
 
