@@ -36,8 +36,8 @@ I'm a python programmer currently doing competitive programming. I also have a k
 <br>
 
 <br>
+<p font-size=1.6rem>**Languages and Tools:**</p>
 
-**Languages and Tools:**
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
