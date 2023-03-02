@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <p align=center>
       <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=mrif449&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
   <br><br><br>
-  <!--<img src="https://activity-graph.herokuapp.com/graph?username=mrif449&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/> -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=mrif449&theme=tokyonight&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
   </p>
   
