@@ -73,14 +73,15 @@ Here are some ideas to get you started:
   </p>
   
  
-<p align = "center">
+<p align = center>
 <img height="200" src="https://github-profile-trophy.vercel.app/?username=mrif449&theme=tokyonight&no-frame=true&row=2&margin-w=5&margin-h=5&count_private=true&title=Commit,Repositories,Followers,PullRequest,Issues"/>
-
 <p/>
+
+
 dracula base : #282a36 font : #ff79c6
-<p align="left">
-<img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&hide=html,makefile,css&bg_color=211e1b&title_color=79740e&text_color=83a598&count_private=true&langs_count=5" />
-<img  height= "200"src="https://github-readme-stats.vercel.app/api?username=mrif449&bg_color=211e1b&title_color=79740e&text_color=83a598&show_icons=true&icon_color=fabd2f&count_private=true" />
+<p align="center">
+<img  height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&hide=html,makefile,css&bg_color=211e1b&title_color=282a36&text_color=ff79c6&count_private=true&langs_count=5" />
+<img  height= "200"src="https://github-readme-stats.vercel.app/api?username=mrif449&bg_color=211e1b&title_color=282a36&text_color=ff79c6&show_icons=true&icon_color=fabd2f&count_private=true" />
 </p>
 
 
