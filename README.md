@@ -64,19 +64,16 @@ Here are some ideas to get you started:
 
 <p align=center>
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=mrif449&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
-  <img  height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+  <img height=200 src="https://github-profile-trophy.vercel.app/?username=mrif449&theme=tokyonight&no-frame=true&row=2&margin-w=5&margin&h=5&count_private=true&title=Commit,Repositories,Followers,PullRequest,Issues"/>
+  
  </p>
 <p align=center>
-      <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=mrif449&theme=tokyonight&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=mrif449&theme=tokyonight&border=61dafb&hide_border=true" alt="mrif449" />
+  <img  height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrif449&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
   <br><br><br>
 
 </p>
 
-  
- 
-<p align = center>
-<img height=200 src="https://github-profile-trophy.vercel.app/?username=mrif449&theme=tokyonight&no-frame=true&row=2&margin-w=5&margin&h=5&count_private=true&title=Commit,Repositories,Followers,PullRequest,Issues"/>
-<p/>
 
 
 <p align="center">
