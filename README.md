@@ -36,7 +36,7 @@ I'm a python programmer currently doing competitive programming. I also have a k
 <code><img height="70" src="https://w7.pngwing.com/pngs/12/369/png-transparent-black-and-white-cat-illustration-github-computer-icons-icon-design-github-cat-like-mammal-carnivoran-logo.png"></code>
 <code><img height="70" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img height="70" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld"></code>
-<code><img height="70" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"></code>
+<code><img height="70" src="https://cdn.iconscout.com/icon/free/png-512/free-express-8-1175029.png"></code>
 <code><img height="70" src="https://cdn.iconscout.com/icon/free/png-512/free-react-4-1175110.png"></code>
 <code><img height="70" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-3550841-2970426.png"></code>
 
