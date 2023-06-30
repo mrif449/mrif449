@@ -38,7 +38,7 @@ I'm a python programmer currently doing competitive programming. I also have a k
 <code><img height="70" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/erkxwhl1gd48xfhe2yld"></code>
 <code><img height="70" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"></code>
 <code><img height="70" src="https://cdn.iconscout.com/icon/free/png-256/free-react-1-282599.png?f=webp"></code>
-<code><img height="70" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"></code>
+<code><img height="70" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-3550841-2970426.png"></code>
 
 
 
