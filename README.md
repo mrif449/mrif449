@@ -61,7 +61,8 @@ Here are some ideas to get you started:
 <p align=left>
   <img height=200 src="https://github-profile-trophy.vercel.app/?username=mrif449&theme=tokyonight&no-frame=true&row=2&margin-w=5&margin&h=5&count_private=true&title=Commit,Repositories,Followers,PullRequest,Issues"/>
  </p>
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrif449)
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrif449)
 
 
 
